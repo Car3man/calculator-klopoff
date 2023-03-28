@@ -6,3 +6,5 @@ Made without operations on strings
 
 - Language: Kotlin
 - Tests: Covered major functions
+
+![Preview](./images/preview.jpg))
